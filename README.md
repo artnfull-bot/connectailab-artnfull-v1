@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Overview
-This repository provides the core runtime scripts and interactive web playground for **`connectailap-artnfull-v1`**, an experimental model developed as part of the **Connect AI LAB** local AI research project.  
+This repository provides the core runtime scripts and interactive web playground for **`connectailap-artnfull-v1`**, an experimental model developed as part of **Connect AI LAB** research.  
 The model applies **Abliteration (weight-level orthogonal projection and removal of the refusal direction)** to the base model `Qwen3-0.6B`.
 
 ---
@@ -48,7 +48,7 @@ python local_chat.py
 <br>
 
 ## 📌 프로젝트 소개
-본 저장소는 **Connect AI LAB** 실습 연구 프로젝트의 일환으로 제작된 `connectailap-artnfull-v1` 모델의 로컬 실행 도구 및 테스트 환경을 제공합니다.  
+본 저장소는 **Connect AI LAB** 연구의 일환으로 제작된 `connectailap-artnfull-v1` 모델의 로컬 실행 도구 및 테스트 환경을 제공합니다.  
 `Qwen3-0.6B` 기본 모델에 **Abliteration(거절 방향 벡터 직교 투영 및 가중치 제거)** 기법을 적용하여 거절 메커니즘을 조정한 실험용 도구 모음입니다.
 
 ## 📁 주요 구성 파일
