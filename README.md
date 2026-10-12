@@ -42,8 +42,9 @@ python local_chat.py
 
 ---
 
-### 🌐 Hugging Face Profile
-* **All Models & Collections:** https://huggingface.co/artnfull
+### 🌐 Official Profiles & Channels
+* **🤗 Hugging Face:** https://huggingface.co/artnfull
+* **🐙 GitHub:** https://github.com/artnfull-bot
 
 ---
 
@@ -78,8 +79,9 @@ Check out our companion Android app on Google Play:
 
 ---
 
-### 🌐 제작자 허깅페이스 전체 프로필
-* **전체 모델 및 프로젝트:** https://huggingface.co/artnfull
+### 🌐 공식 채널 및 프로필
+* **🤗 허깅페이스 (모델 모아보기):** https://huggingface.co/artnfull
+* **🐙 깃허브 (전체 코드 저장소):** https://github.com/artnfull-bot
 
 ---
 
