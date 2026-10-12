@@ -1,9 +1,8 @@
 # 🚀 Connect AI LAB — connectailap-artnfull-v1
 
 > **Affiliation:** Connect AI LAB  
-> **Creator:** artnfull  
+> **Creator:** [artnfull](https://huggingface.co/artnfull)  
 > **Model:** [🤗 Hugging Face (artnfull/connectailap-artnfull-v1)](https://huggingface.co/artnfull/connectailap-artnfull-v1)  
-> **Hugging Face Profile:** https://huggingface.co/artnfull  
 > **Base Model:** Built with [Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)  
 > **License:** Apache 2.0  
 
