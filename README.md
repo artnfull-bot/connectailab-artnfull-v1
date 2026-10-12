@@ -66,7 +66,7 @@ python local_chat.py
 3. **`Modelfile`**: Ollama에 내 모델을 손쉽게 등록하고 실행할 수 있는 설정 파일
 
 ## 🛠️ 실행 방법
-1. **LM Studio 사용**: 허깅페이스(https://huggingface.co/artnfull/connectailap-artnfull-v1)에서 모델 다운로드 후 드래그 앤 드롭
+1. **LM Studio 사용**: [허깅페이스 모델 저장소](https://huggingface.co/artnfull/connectailap-artnfull-v1)에서 모델 다운로드 후 드래그 앤 드롭
 2. **Ollama 실행**: `ollama create my-qwen -f ./Modelfile` 실행 후 `ollama run my-qwen`
 3. **파이썬 대화 실행**: `python local_chat.py`
 
