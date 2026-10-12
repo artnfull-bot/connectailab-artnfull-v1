@@ -3,6 +3,7 @@
 > **Affiliation:** Connect AI LAB  
 > **Creator:** artnfull  
 > **Model:** [🤗 Hugging Face (artnfull/connectailap-artnfull-v1)](https://huggingface.co/artnfull/connectailap-artnfull-v1)  
+> **Hugging Face Profile:** https://huggingface.co/artnfull  
 > **Base Model:** Built with [Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)  
 > **License:** Apache 2.0  
 
@@ -42,6 +43,21 @@ python local_chat.py
 
 ---
 
+### 🌐 Hugging Face Profile
+* **All Models & Collections:** https://huggingface.co/artnfull
+
+---
+
+### 📱 Related Project: Zero Dopamine Detox
+Looking to break free from digital overload and build healthy daily habits?  
+Check out our companion Android app on Google Play:
+
+<a href="https://play.google.com/store/apps/details?id=com.zerodopamine.app">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="180">
+</a>
+
+---
+
 <details>
 <summary><b>🇰🇷 한국어 설명 보기 (Click to expand Korean version)</b></summary>
 
@@ -60,6 +76,21 @@ python local_chat.py
 1. **LM Studio 사용**: [허깅페이스](https://huggingface.co/artnfull/connectailap-artnfull-v1)에서 모델 다운로드 후 드래그 앤 드롭
 2. **Ollama 실행**: `ollama create my-qwen -f ./Modelfile` 실행 후 `ollama run my-qwen`
 3. **파이썬 대화 실행**: `python local_chat.py`
+
+---
+
+### 🌐 제작자 허깅페이스 전체 프로필
+* **전체 모델 및 프로젝트:** https://huggingface.co/artnfull
+
+---
+
+### 📱 함께 개발한 앱: 제로도파민 (Zero Dopamine Detox)
+도파민 중독과 스마트폰 과몰입에서 벗어나 갓생을 살고 싶다면!  
+구글 플레이스토어에서 무료로 다운로드 받아보세요:
+
+<a href="https://play.google.com/store/apps/details?id=com.zerodopamine.app">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png" width="180">
+</a>
 
 </details>
 
